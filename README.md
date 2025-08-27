@@ -1,2 +1,2 @@
-# Cyber_Range_MITRE_ATT-CK
+# Design and implementation of a cybersecurity environment for training and defense against cyber threats: A MITRE ATT&CK approach
 This project is focused on designing and implementing a cybersecurity training environment based on the MITRE ATT&amp;CK framework. The goal is to develop a hybrid infrastructure with realistic simulation scenarios to strengthen technical skills and create a replicable academic model.
