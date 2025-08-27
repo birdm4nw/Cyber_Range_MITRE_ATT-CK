@@ -2,4 +2,4 @@
 
 This project is focused on designing and implementing a cybersecurity training environment based on the MITRE ATT&amp;CK framework. The goal is to develop a hybrid infrastructure with realistic simulation scenarios to strengthen technical skills and create a replicable academic model.
 
-🔗 Research poster document can be found here: [CyberSec_Doc](/CyberRange_MITRE_ATT&CK_Research_Poster.pdf)
+🔗 Research poster document can be found here: [CyberEnv_Document](/CyberRange_MITRE_ATT&CK_Research_Poster.pdf)
